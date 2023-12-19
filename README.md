@@ -1,4 +1,4 @@
-chess.py
+# chess.py
 This project uses Python for the core logic and backend, and TypeScript for the frontend, offering a seamless and interactive chess experience.
 
 ## Features (In the works)
